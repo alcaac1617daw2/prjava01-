@@ -8,7 +8,7 @@ package prjava01;
 import java.io.*;
 /**
  *
- * @author alcampo
+ * @author  alcaac
  */
 public class Prjava01 {
 
